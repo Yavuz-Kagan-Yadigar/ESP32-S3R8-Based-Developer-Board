@@ -1,5 +1,6 @@
 # ESP32-S3R8-Based-Developer-Board
 ![esp32_1](https://github.com/user-attachments/assets/30517714-5739-4370-a29b-ed8d3c6c76c8)
+https://www.artstation.com/artwork/x3DQKX
 
 Basit bir ESP32-S3R8 tabanlı geliştirme kartı.Kendimi geliştirmek amacıyla yaptım ve ilk kez bu kadar kompleks bir proje yapıyorum,o nedenle üretimden önce kontrol ederseniz iyi olur.Herhangi bir hata görürseniz bildirirseniz sevinirim. Discord: yavuzkagan42 
 
