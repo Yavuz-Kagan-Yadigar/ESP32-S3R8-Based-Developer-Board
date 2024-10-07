@@ -4,6 +4,6 @@ https://www.artstation.com/artwork/x3DQKX
 
 Basit bir ESP32-S3R8 tabanlı geliştirme kartı.Kendimi geliştirmek amacıyla yaptım ve ilk kez bu kadar kompleks bir proje yapıyorum,o nedenle üretimden önce kontrol ederseniz iyi olur.Herhangi bir hata görürseniz bildirirseniz sevinirim. Discord: yavuzkagan42 
 
-Altium files: [https://drive.google.com/file/d/1vgtCvR_V1i67LOS4_nOCU_OptjPyQQZx/view?usp=sharing](https://drive.google.com/file/d/1v5xn4HYq57tt7emPgJvL2Vn8zQnSAw5I/view?usp=sharing)
+Altium files: https://drive.google.com/file/d/1vgtCvR_V1i67LOS4_nOCU_OptjPyQQZx/view?usp=sharing
 
 A basic ESP32-S3R8 based dev board.I made it to impruve my pcb design skills and it is most complex design i made yet.So i recommend to check it before send it to production.I will be glad if you reach out me to spot problems. Discord: yavuzkagan42
